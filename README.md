@@ -4,7 +4,7 @@
 📫 How to reach me: l-gao21@mails.tsinghua.edu.cn  
 
 ### Im good at...
-Language: Python, C++, Web(HTML, CSS, JS)
+Language: Python, C++, Web(HTML, CSS, JS)  
 Robots, AI, Security
 
 
