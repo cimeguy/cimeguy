@@ -1,11 +1,12 @@
 ### Hi there 👋
-🔭 I’m currently a graduate student in Tsinghua University.    
-🌱 learning quantum computing and quantum information.  
+🔭 I’m currently a graduate student in Tsinghua University, major in cyberspace security.
+🔭 I have been doing research on AI for Robot and AI for Security.
+🌱 learning quantum computing and quantum information and plan to do research on it.
 📫 How to reach me: l-gao21@mails.tsinghua.edu.cn  
 
 ### Im good at...
 Language: Python, C++, Web(HTML, CSS, JS)  
-Robots, AI, Security
+
 
 
 <!--
