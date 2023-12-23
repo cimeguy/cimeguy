@@ -2,6 +2,10 @@
 🔭 I’m currently a graduate student in Tsinghua University.    
 🌱 learning quantum computing and quantum information.  
 📫 How to reach me: l-gao21@mails.tsinghua.edu.cn  
+### Im good at...
+Python  
+C++  
+Web  
 
 
 <!--
