@@ -2,7 +2,7 @@
 🔭 I’m currently a graduate student in Tsinghua University.    
 🌱 learning quantum computing and quantum information.  
 📫 How to reach me: l-gao21@mails.tsinghua.edu.cn  
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
 <!--
 **cimeguy/cimeguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
