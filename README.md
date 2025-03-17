@@ -1,8 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently a graduate student in Tsinghua University, major in cyberspace security.  
 🔭 I have been doing research on AI for ''Robot'' and AI for ''Security''. I often use language Python, C++, Web(HTML, CSS, JS) for coding.  
-🌱 now learning quantum computing and quantum information and plan to do research on it.  
-
+🌱 
 📫 How to reach me: l-gao21@tsinghua.org.cn
 
 ### 
